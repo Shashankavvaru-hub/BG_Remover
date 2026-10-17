@@ -1,0 +1,4 @@
+flask==3.0.3
+rembg==2.0.85
+onnxruntime==1.19.2
+pillow==12.1.1
